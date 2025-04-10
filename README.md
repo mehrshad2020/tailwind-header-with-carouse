@@ -1,8 +1,8 @@
 # tailwind-header-with-carouse
 ![image](https://github.com/user-attachments/assets/89dd4551-2f2f-46ea-9e97-5e35553dd09f)
-# Responsive Travel Header with Tailwind CSS
+# Responsive  Header with Tailwind CSS
 
-A modern, responsive travel website header built with Tailwind CSS that changes its background image when clicking on destination cards.
+A modern, responsive  website header built with Tailwind CSS that changes its background image when clicking on destination cards.
 
 ## Features
 
